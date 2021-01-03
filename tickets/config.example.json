@@ -1,0 +1,23 @@
+{
+    "token": "",
+    "emoji": "✅",
+    "prefix": "!",
+    "status": "",
+    "embedColor": "RANDOM",
+
+    "supportRole": "",
+    "ticketCategory": "",
+    "ticketLogs": "",
+
+    "openMessage": "Please say where you need help with!",
+    "closeMessage": "Here is the log of your closed ticket!",
+
+    "needReasonToOpen": "Please give a reason to open it!",
+    "needReasonToClose": "Please give a reason to close it!",
+    "defaultReason": "No reason provided",
+
+    "alreadyOpened": "You already have a ticket open!",
+    "noSupport": "This is not a support ticket!",
+
+    "ticketReaction": "React with EMOJI to create a support ticket!"
+}  

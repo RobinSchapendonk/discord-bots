@@ -1,0 +1,17 @@
+{
+  "name": "polish-cow",
+  "version": "1.0.0",
+  "description": "Play Polish Cow 24/7 in a VC",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Robin Schapendonk",
+  "license": "MIT",
+  "dependencies": {
+    "@discordjs/opus": "^0.3.3",
+    "discord.js": "^12.4.1",
+    "dotenv": "^8.2.0",
+    "sqlite3": "^5.0.0"
+  }
+}

@@ -1,0 +1,38 @@
+{
+    "owners": [],
+    "guildID": "",
+
+    "ModMailCategory": "",
+    "TicketCategory": "",
+    "supportRole": "",
+
+    "suggestionChannel": "",
+    "bugChannel": "",
+
+    "moderationLogging": "",
+    "logging": "",
+    
+    "confirmEmoji": "✅",
+    "embedColor": "RANDOM",
+    "prefix": "!",
+    "status": "DM for help!",
+
+    "ignorePermissions": {
+        "ban": "",
+        "clearWarnings": "",
+        "deleteTag": "",
+        "deleteWarning": "",
+        "giveaway": "",
+        "kick": "",
+        "lockdown": "",
+        "mute": "",
+        "punishmentInformation": "",
+        "punishments": "",
+        "setTag": "",
+        "tagInformation": "",
+        "unban": "",
+        "unmute": "",
+        "warn": "",
+        "warnings": ""
+    }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "modmail",
+  "version": "1.0.0",
+  "description": "A simple modmail bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Robin Schapendonk",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^12.2.0",
+    "fs": "0.0.1-security",
+    "path": "^0.12.7",
+    "quick.db": "^7.1.1"
+  }
+}

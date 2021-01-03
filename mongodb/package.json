@@ -1,0 +1,18 @@
+{
+  "name": "mongodb",
+  "version": "1.0.0",
+  "description": "A few mongodb systems for a Discord.js bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Robin Schapendonk",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^12.4.1",
+    "fs": "0.0.1-security",
+    "mongoose": "^5.10.13",
+    "path": "^0.12.7",
+    "uuid": "^8.3.1"
+  }
+}

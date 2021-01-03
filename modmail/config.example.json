@@ -1,0 +1,15 @@
+{
+    "token": "",
+    "prefix": "!",
+    "status": "DM For help",
+    "embedColor": "RANDOM",
+    "emoji": "✅",
+
+    "serverID": "",
+    "supportRole": "",
+    "mailCategory": "",
+
+    "openMessage": "ModMail ticket created!",
+
+    "noMail": "This is not a modmail ticket!"
+}
